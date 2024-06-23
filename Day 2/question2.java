@@ -16,5 +16,6 @@ public class question2 {
 
         // display area
         System.out.println("Area : " + area);
+        sc.close();
     }
 }
