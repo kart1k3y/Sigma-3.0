@@ -20,6 +20,6 @@ public class question1 {
         //Displaying average
 
         System.out.println("Average : " + avg );
-
+        sc.close();
     }
 }
